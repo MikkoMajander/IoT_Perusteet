@@ -6,7 +6,7 @@ Wokwi exercises:
 5. Weather station with DHT22. Link: https://wokwi.com/projects/444084299147476993
 6. Weather station that sends data to ThingSpeak backend. Link: https://wokwi.com/projects/444160515511851009
 
-I was having trouble uploading some of the folders so only Lesson 2 folder was uploaded fully.
+I was having trouble uploading some of the folders so only Lesson 2 folder was uploaded fully with the json packages and node modules.
 
 Lesson 3 files are Mikondatabase.db and server3.js.
 My database was tested with Postman and worked as intended with both GET and POST.
