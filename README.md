@@ -8,4 +8,4 @@ Wokwi exercises:
 
 I was having some trouble uploading the some of the folders so only Lesson 2 folder was uploaded fully.
 
-Lesson 4 folder was divided into four parts that were uploaded separately.
+Lesson 4 folder was divided into four parts that were uploaded separately, Webhook, Websocket, Fetch, and Google Chart. Even then I couldn't upload the Webhook folder but the server.js file is basically it just without the json packages
