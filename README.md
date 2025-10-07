@@ -9,6 +9,7 @@ Wokwi exercises:
 I was having trouble uploading some of the folders so only Lesson 2 folder was uploaded fully.
 
 Lesson 3 files are Mikondatabase.db and server3.js.
+My database was tested with Postman and worked as intended with both GET and POST.
 
 Lesson 4 folder was divided into four parts that were uploaded separately:
 1. Webhook. I created my own Discord-server and tested the webhook there.
