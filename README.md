@@ -6,6 +6,12 @@ Wokwi exercises:
 5. Weather station with DHT22. Link: https://wokwi.com/projects/444084299147476993
 6. Weather station that sends data to ThingSpeak backend. Link: https://wokwi.com/projects/444160515511851009
 
-I was having some trouble uploading the some of the folders so only Lesson 2 folder was uploaded fully.
+I was having trouble uploading some of the folders so only Lesson 2 folder was uploaded fully.
 
-Lesson 4 folder was divided into four parts that were uploaded separately, Webhook, Websocket, Fetch, and Google Chart. Even then I couldn't upload the Webhook folder but the server.js file is basically it just without the json packages
+Lesson 3 files are Mikondatabase.db and server3.js.
+
+Lesson 4 folder was divided into four parts that were uploaded separately:
+1. Webhook. I created my own Discord-server and tested the webhook there.
+2. Websocket. Websocket worked as intended and echoed the message back to the website.
+3. Fetch. Fetch worked as intended and fetched the test results from my ThingSpeak Weather Station.
+4. Google Chart. This one I couldn't figure out and didn't have the time to anymore but played around with it and tried different things. I ended up just writing down the data myself.
